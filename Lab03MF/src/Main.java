@@ -66,7 +66,22 @@ public class Main {
 
         //zadanie 5
 
+            System.out.println("Wprowadź słowo, sprawdzę czy jest palindromem");
 
+            String query = reader.next();
+
+            if (IsItAPalindrome(query))
+                System.out.println("Tak to jest palindrom");
+            
+            System.out.println("Nie jest palindromem");
+
+
+    }
+    static boolean IsItAPalindrome(String palindrome)
+    {
+        palindrome = palindrome.toLowerCase();
+        var palindromeReversed = new StringBuilder(palindrome).reverse().toString();
+        return palindrome.equals(palindromeReversed);
     }
 
     private static int generateNumber()
