@@ -55,7 +55,7 @@ public class Main {
         System.out.println("Czy Dostałeś premię? tak = y, nie = n");
         var premia = reader.next();
 
-        System.out.println("Czy jest zniżka na samochód? tak = y, nie = n"); //todo fix it
+        System.out.println("Czy jest zniżka na samochód? tak = y, nie = n");
         var znizka = reader.next();
         System.out.println(logic1(premia,znizka));
 
