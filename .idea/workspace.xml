@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="done but two">
+    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="done but fix at lab 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab03MF/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab03MF/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab02MF/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab02MF/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "19",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,7 +42,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667066327858</updated>
-      <workItem from="1667066329245" duration="4769000" />
+      <workItem from="1667066329245" duration="5003000" />
+      <workItem from="1667419139674" duration="3703000" />
     </task>
     <task id="LOCAL-00001" summary="restart">
       <created>1667066378653</created>
@@ -64,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667070301079</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="done but fix at lab 2">
+      <created>1667071341282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667071341282</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="restart" />
     <MESSAGE value="done but two" />
-    <option name="LAST_COMMIT_MESSAGE" value="done but two" />
+    <MESSAGE value="done but fix at lab 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="done but fix at lab 2" />
   </component>
 </project>

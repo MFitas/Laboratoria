@@ -57,7 +57,7 @@ public class Main {
 
         System.out.println("Czy jest zniżka na samochód? tak = y, nie = n"); //todo fix it
         var znizka = reader.next();
-        logic1(premia,znizka);
+        System.out.println(logic1(premia,znizka));
 
         // zadanie 6
         System.out.println("Wprowadz pierwsza liczbe");
@@ -77,14 +77,17 @@ public class Main {
         }
     }
 
-    private static void logic1(String premia, String znizka)
+    private static String logic1(String premia, String znizka)
     {
-        if (Objects.equals(premia, "n") || Objects.equals(znizka, "n"))
-            System.out.println("Zakup samochód trzeba odłożyć na później... Zniżki na samochód nie ma");
-        if (Objects.equals(premia, "y") || Objects.equals(znizka, "n"))
-            System.out.println("Możesz kupić samochód !”, „Zniżki na samochód nie ma");
-        if (Objects.equals(premia, "y") || Objects.equals(znizka, "y"))
-            System.out.println("Możesz kupić samochód");
+        var isDiscount = Objects.equals(znizka, "y");
+        var isBonus = Objects.equals(premia, "y");
+
+        if (!(isBonus||isDiscount))
+            return "Zakup samochód trzeba odłożyć na później..., Zniżki na samochód nie ma";
+        if (!(!isBonus||!isDiscount))
+            return "Możesz kupić samochód";
+        else
+            return "Możesz kupić samochód !”, „Zniżki na samochód nie ma";
     }
 
     private static void logic(String pada, String autobus) {
