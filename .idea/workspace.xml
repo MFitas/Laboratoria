@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 4 FINISHED">
-      <change afterPath="$PROJECT_DIR$/Lab05MF/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 5 z1 FINISHED">
+      <change afterPath="$PROJECT_DIR$/Lab05MF/src/Building.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab05MF/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05MF/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
@@ -46,7 +53,7 @@
       <workItem from="1667066329245" duration="5003000" />
       <workItem from="1667419139674" duration="3862000" />
       <workItem from="1668446355339" duration="5751000" />
-      <workItem from="1670062965910" duration="313000" />
+      <workItem from="1670062965910" duration="4026000" />
     </task>
     <task id="LOCAL-00001" summary="restart">
       <created>1667066378653</created>
@@ -97,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668452120694</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab 5 z1 FINISHED">
+      <created>1670063425809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670063425809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +135,7 @@
     <MESSAGE value="all" />
     <MESSAGE value="all, todo removed" />
     <MESSAGE value="Lab 4 FINISHED" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 4 FINISHED" />
+    <MESSAGE value="Lab 5 z1 FINISHED" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 z1 FINISHED" />
   </component>
 </project>
