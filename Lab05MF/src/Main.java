@@ -13,7 +13,7 @@ public class Main {
         Building bud2 = new Building("mały domek", LocalDate.of(1950,10,15),2);
         Building bud3 = new Building("duży domek", LocalDate.of(1999,10,15),2);
 
-        System.out.println("Wiek budynku: "+bud1.wiekBudynku().getYears());
+        System.out.println("Wiek budynku: "+bud1.wiekBudynku());
         bud1.piszDane();
         bud2.piszDane();
         bud3.piszDane();

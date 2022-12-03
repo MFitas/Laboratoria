@@ -1,4 +1,3 @@
-import java.time.Duration;
 import java.time.LocalDate;
 import java.time.Period;
 
@@ -44,9 +43,9 @@ public class Building
         System.out.println("Rok budowy: "+this.RokBudowy);
     }
 
-    public Period wiekBudynku(){
+    public int wiekBudynku(){
         LocalDate aktualnyRok = LocalDate.now();
         Period diff = Period.between(this.RokBudowy, aktualnyRok);
-        return diff;
+        return diff.getYears();
     }
 }
