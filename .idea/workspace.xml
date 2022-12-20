@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 5 z2 FINISHED*">
-      <change afterPath="$PROJECT_DIR$/Lab05MF/src/Gatunek.java" afterDir="false" />
+    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 5 z3 FINISHED*">
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Okrag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab06MF/src/Trojkat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab05MF/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab05MF/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +59,8 @@
       <workItem from="1667066329245" duration="5003000" />
       <workItem from="1667419139674" duration="3862000" />
       <workItem from="1668446355339" duration="5751000" />
-      <workItem from="1670062965910" duration="7187000" />
+      <workItem from="1670062965910" duration="9623000" />
+      <workItem from="1671561811597" duration="3570000" />
     </task>
     <task id="LOCAL-00001" summary="restart">
       <created>1667066378653</created>
@@ -125,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670067397304</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lab 5 z3 FINISHED*">
+      <created>1670070555083</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670070555083</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +166,7 @@
     <MESSAGE value="Lab 5 z1 FINISHED" />
     <MESSAGE value="Lab 5 z2 FINISHED" />
     <MESSAGE value="Lab 5 z2 FINISHED*" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 z2 FINISHED*" />
+    <MESSAGE value="Lab 5 z3 FINISHED*" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 5 z3 FINISHED*" />
   </component>
 </project>
