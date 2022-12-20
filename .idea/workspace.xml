@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 6 FINISHED z.1">
-      <change afterPath="$PROJECT_DIR$/Lab06MF/zadanie2lab6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06MF/zadanie2lab6/src/Samochod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06MF/zadanie2lab6/src/SamochodOsobowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab06MF/zadanie2lab6/zadanie2lab6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9a27f7b5-bb7f-4af6-8456-609ef6d6f9a9" name="Changes" comment="Lab 6 FINISHED z.2, skipping z.3 ambiguous task;">
+      <change afterPath="$PROJECT_DIR$/Lab07MF/src/Lata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07MF/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07MF/src/Plywa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07MF/src/Samolot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab07MF/src/Statek.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,7 +57,7 @@
       <workItem from="1667419139674" duration="3862000" />
       <workItem from="1668446355339" duration="5751000" />
       <workItem from="1670062965910" duration="9623000" />
-      <workItem from="1671561811597" duration="6970000" />
+      <workItem from="1671561811597" duration="7396000" />
     </task>
     <task id="LOCAL-00001" summary="restart">
       <created>1667066378653</created>
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671565495546</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lab 6 FINISHED z.2, skipping z.3 ambiguous task;">
+      <created>1671569265949</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671569265949</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
     <MESSAGE value="Lab 5 z3 FINISHED*" />
     <MESSAGE value="Lab 6 FINISHED*" />
     <MESSAGE value="Lab 6 FINISHED z.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 6 FINISHED z.1" />
+    <MESSAGE value="Lab 6 FINISHED z.2, skipping z.3 ambiguous task;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 6 FINISHED z.2, skipping z.3 ambiguous task;" />
   </component>
 </project>
